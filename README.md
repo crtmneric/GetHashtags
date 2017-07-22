@@ -13,6 +13,13 @@ CSV
 TEXT FILE
 IMAGE FILES
 
+1-Enter a hashtag for search.
+2-Confirm a date.
+3-Enter a twit count.
+4-Press Scan.
+5-Get a report.
+
+
 
   GUI     | REPORTING
 -------------------------|-------------------------
