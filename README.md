@@ -1,21 +1,21 @@
-# SmartBright
-Nasa Space App Challange Project Desktop Client
+# GetHashtags
+Easy to use with GUI and reporting tool. Get twits from hashtags.
 
-SmartBright's Desktop Client Communicate with the microcontroller which entegreted to the solar panel with Serial Port.
+Export file options :
+CSV
+PDF
+HTML
+MHT
+RTF
+XLS
+XLSX
+CSV
+TEXT FILE
+IMAGE FILES
 
-It gets the next weeks forecast and show user for planning energy distribution plan!
 
-SmartBright Desktop Client also show user how much efficient u can get with solar panel and active mobal distribution plan!
-
-
-You have to select com port for data flow.
-
-
-
-Team: https://2017.spaceappschallenge.org/challenges/earth-and-us/you-are-my-sunshine/teams/x-ray/project
-
-   Data Monitoring     | Main Screen
+  GUI     | REPORTING
 -------------------------|-------------------------
-<img src="https://api-2017.spaceappschallenge.org/stream-images/4Ldr7lFmPh7qYvhxXz4JX4WEqU8=/1177/width-800/" width="400"> | <img src="http://i.hizliresim.com/4PoJNG.png" width="400">
+<img src="https://i.hizliresim.com/PrGdOO.png" width="400"> | <img src="https://i.hizliresim.com/gWbg60.png" width="400">
 
 
